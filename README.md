@@ -76,11 +76,14 @@ update your gitrepository
 
 <img width="439" alt="7" src="https://media.github.ibm.com/user/246450/files/566a6f80-657f-11eb-9013-a84d951eabb4">
 
-<img width="458" alt="8" src="https://media.github.ibm.com/user/246450/files/566a6f80-657f-11eb-8980-ca4f0ed9761f">
+<img width="529" alt="9" src="https://user-images.githubusercontent.com/16270682/106628395-3349bb00-6593-11eb-9e41-42a1705219dd.PNG">
 
 now push the vulnerable code, you will notice SAST stage failed.
 
-to wrap up, remove SAST stage, upgrade your express.js to latest version and push the changes 
+     git commit -am "modified package.json"
+     git push
+
+to wrap up, remove SAST stage, upgrade your express.js to latest version and push the changes. 
    
 
 
