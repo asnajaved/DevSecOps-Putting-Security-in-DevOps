@@ -76,7 +76,7 @@ update your gitrepository
 
 <img width="439" alt="7" src="https://media.github.ibm.com/user/246450/files/566a6f80-657f-11eb-9013-a84d951eabb4">
 
-<img width="529" alt="9" src="https://user-images.githubusercontent.com/16270682/106628395-3349bb00-6593-11eb-9e41-42a1705219dd.PNG">
+<img width="525" alt="9" src="https://user-images.githubusercontent.com/16270682/106631611-588bf880-6596-11eb-9cec-c7421e04488f.PNG">
 
 now push the vulnerable code, you will notice SAST stage failed.
 
