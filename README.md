@@ -4,7 +4,7 @@ In this workshop you will learn how to create a toolchain on IBM Cloud using con
 
 ## Step 1: Create IBM Cloud account
 
-Signup/Sign-in on IBM Cloud account using: https://ibm.biz/BdfE9E 
+Signup/Sign-in on IBM Cloud account
 
 ## Step 2: Create Toolchain
 
